@@ -19,9 +19,17 @@ namespace PolygonArea
             {4, 2}
             };
 
+
+
             int numVertices = vertices.GetLength(0);
             double area = Calculate.CalculatePolygonArea(vertices, numVertices);
-            Console.WriteLine(area);
+
+            Console.WriteLine($" This program shows you the area of polygon with these coordinates:");
+
+            for (int i = 0; i < vertices.GetLength(0); i++)
+            {
+                Console.WriteLine($"({vertices.GetValue(i, 0)},{vertices.GetValue(i, 1)})");         
+            }
 
             Console.ReadKey();
         }
