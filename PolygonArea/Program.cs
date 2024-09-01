@@ -31,6 +31,7 @@ namespace PolygonArea
                 Console.WriteLine($"({vertices.GetValue(i, 0)},{vertices.GetValue(i, 1)})");         
             }
 
+            Console.WriteLine($"\n and the area is: {area}");
             Console.ReadKey();
         }
     }
