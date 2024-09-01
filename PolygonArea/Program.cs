@@ -19,6 +19,10 @@ namespace PolygonArea
             {4, 2}
             };
 
+            int numVertices = vertices.GetLength(0);
+            double area = Calculate.CalculatePolygonArea(vertices, numVertices);
+            Console.WriteLine(area);
+
             Console.ReadKey();
         }
     }
