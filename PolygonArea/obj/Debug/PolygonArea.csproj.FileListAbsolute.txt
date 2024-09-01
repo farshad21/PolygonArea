@@ -1,0 +1,7 @@
+C:\Users\AVA\Desktop\Final Behsa Project\PolygonArea\PolygonArea\bin\Debug\PolygonArea.exe.config
+C:\Users\AVA\Desktop\Final Behsa Project\PolygonArea\PolygonArea\bin\Debug\PolygonArea.exe
+C:\Users\AVA\Desktop\Final Behsa Project\PolygonArea\PolygonArea\bin\Debug\PolygonArea.pdb
+C:\Users\AVA\Desktop\Final Behsa Project\PolygonArea\PolygonArea\obj\Debug\PolygonArea.csprojAssemblyReference.cache
+C:\Users\AVA\Desktop\Final Behsa Project\PolygonArea\PolygonArea\obj\Debug\PolygonArea.csproj.CoreCompileInputs.cache
+C:\Users\AVA\Desktop\Final Behsa Project\PolygonArea\PolygonArea\obj\Debug\PolygonArea.exe
+C:\Users\AVA\Desktop\Final Behsa Project\PolygonArea\PolygonArea\obj\Debug\PolygonArea.pdb

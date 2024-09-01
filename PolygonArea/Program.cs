@@ -8,8 +8,18 @@ namespace PolygonArea
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
+            // Define the vertices of the polygon
+            double[,] vertices = {
+            {2, 4},
+            {4, 8},
+            {6, 6},
+            {8, 4},
+            {4, 2}
+            };
+
+            Console.ReadKey();
         }
     }
 }
